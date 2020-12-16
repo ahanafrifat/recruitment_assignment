@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Recruitment Assignment</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome!"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="log_in">Log in</string>
+    <string name="name">Name<font fgcolor='#E53935'>*</font></string>
+    <string name="email">Email<font fgcolor='#E53935'>*</font></string>
+    <string name="phone">Phone<font fgcolor='#E53935'>*</font></string>
+    <string name="full_address">Full Address</string>
+    <string name="name_of_university">Name Of University<font fgcolor='#E53935'>*</font></string>
+    <string name="graduation_year">Graduation Year<font fgcolor='#E53935'>*</font></string>
+    <string name="cgpa">CGPA</string>
+    <string name="experience_in_months">Experience In Months</string>
+    <string name="current_work_place_name">Current Work Place Name</string>
+    <string name="applying_in">Applying In<font fgcolor='#E53935'>*</font></string>
+    <string name="expected_salary">Expected Salary<font fgcolor='#E53935'>*</font></string>
+    <string name="field_buzz_reference">Field Buzz Reference</string>
+    <string name="github_project_url">Github project url<font fgcolor='#E53935'>*</font></string>
+    <string name="cvfile">cvFile</string>
+    <string name="tsync_id">Tsync Id</string>
+    <string name="on_spot_update_time">On Spot Update Time</string>
+    <string name="on_spot_creation_time">On Spot Creation Time</string>
+    <string name="submit">Submit</string>
+    <string name="select_file">Select file<font fgcolor='#E53935'>*</font></string>
+</resources>
